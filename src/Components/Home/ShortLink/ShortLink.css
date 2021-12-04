@@ -1,0 +1,9 @@
+.bg-desk{
+    background-image: url(../../../images/bg-shorten-desktop.svg);
+    background-color: #3a3053;
+    background-size: cover;
+
+}
+.bg{
+    background-image: url(../../../images/bg-shorten-mobile.svg);
+}
